@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/goldstar/static/css/main.5f361e03.chunk.css",
-    "main.js": "/goldstar/static/js/main.837df8a5.chunk.js",
-    "main.js.map": "/goldstar/static/js/main.837df8a5.chunk.js.map",
+    "main.js": "/goldstar/static/js/main.b2a75f63.chunk.js",
+    "main.js.map": "/goldstar/static/js/main.b2a75f63.chunk.js.map",
     "runtime-main.js": "/goldstar/static/js/runtime-main.01630e20.js",
     "runtime-main.js.map": "/goldstar/static/js/runtime-main.01630e20.js.map",
-    "static/js/2.1447153e.chunk.js": "/goldstar/static/js/2.1447153e.chunk.js",
-    "static/js/2.1447153e.chunk.js.map": "/goldstar/static/js/2.1447153e.chunk.js.map",
+    "static/js/2.eed8c2ae.chunk.js": "/goldstar/static/js/2.eed8c2ae.chunk.js",
+    "static/js/2.eed8c2ae.chunk.js.map": "/goldstar/static/js/2.eed8c2ae.chunk.js.map",
     "index.html": "/goldstar/index.html",
-    "precache-manifest.316d2e20afecd034c253c04e0b520cb0.js": "/goldstar/precache-manifest.316d2e20afecd034c253c04e0b520cb0.js",
+    "precache-manifest.b17fb083d42f8b2c8fdc28667b1bb33b.js": "/goldstar/precache-manifest.b17fb083d42f8b2c8fdc28667b1bb33b.js",
     "service-worker.js": "/goldstar/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/goldstar/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1447153e.chunk.js.LICENSE.txt": "/goldstar/static/js/2.1447153e.chunk.js.LICENSE.txt",
+    "static/js/2.eed8c2ae.chunk.js.LICENSE.txt": "/goldstar/static/js/2.eed8c2ae.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/goldstar/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.01630e20.js",
-    "static/js/2.1447153e.chunk.js",
+    "static/js/2.eed8c2ae.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.837df8a5.chunk.js"
+    "static/js/main.b2a75f63.chunk.js"
   ]
 }
