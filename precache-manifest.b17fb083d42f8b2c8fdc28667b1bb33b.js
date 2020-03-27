@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d0c890a52fc74ebabc9b46f0a434041",
+    "revision": "b340ab6ca6300b08b51822fcee4bd492",
     "url": "/goldstar/index.html"
   },
   {
-    "revision": "bf60523072d72ed88089",
+    "revision": "0da1ffe86991f552e166",
     "url": "/goldstar/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "4941b1d259aa34ae1ec9",
-    "url": "/goldstar/static/js/2.1447153e.chunk.js"
+    "revision": "0440c9be2bfc42c8eb24",
+    "url": "/goldstar/static/js/2.eed8c2ae.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/goldstar/static/js/2.1447153e.chunk.js.LICENSE.txt"
+    "url": "/goldstar/static/js/2.eed8c2ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bf60523072d72ed88089",
-    "url": "/goldstar/static/js/main.359ae9b7.chunk.js"
+    "revision": "0da1ffe86991f552e166",
+    "url": "/goldstar/static/js/main.b2a75f63.chunk.js"
   },
   {
     "revision": "468854bf5e04110e829f",
