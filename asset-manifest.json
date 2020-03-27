@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gold-star/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gold-star/static/js/main.e29241b1.chunk.js",
-    "main.js.map": "/gold-star/static/js/main.e29241b1.chunk.js.map",
-    "runtime-main.js": "/gold-star/static/js/runtime-main.dad4e12d.js",
-    "runtime-main.js.map": "/gold-star/static/js/runtime-main.dad4e12d.js.map",
-    "static/js/2.eed8c2ae.chunk.js": "/gold-star/static/js/2.eed8c2ae.chunk.js",
-    "static/js/2.eed8c2ae.chunk.js.map": "/gold-star/static/js/2.eed8c2ae.chunk.js.map",
-    "index.html": "/gold-star/index.html",
-    "precache-manifest.22afb4521f0be5fd2fee823826e7464b.js": "/gold-star/precache-manifest.22afb4521f0be5fd2fee823826e7464b.js",
-    "service-worker.js": "/gold-star/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/gold-star/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eed8c2ae.chunk.js.LICENSE.txt": "/gold-star/static/js/2.eed8c2ae.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/gold-star/static/media/logo.5d5d9eef.svg"
+    "main.css": "/goldstar/static/css/main.5f361e03.chunk.css",
+    "main.js": "/goldstar/static/js/main.359ae9b7.chunk.js",
+    "main.js.map": "/goldstar/static/js/main.359ae9b7.chunk.js.map",
+    "runtime-main.js": "/goldstar/static/js/runtime-main.01630e20.js",
+    "runtime-main.js.map": "/goldstar/static/js/runtime-main.01630e20.js.map",
+    "static/js/2.1447153e.chunk.js": "/goldstar/static/js/2.1447153e.chunk.js",
+    "static/js/2.1447153e.chunk.js.map": "/goldstar/static/js/2.1447153e.chunk.js.map",
+    "index.html": "/goldstar/index.html",
+    "precache-manifest.0cc48a14dfadcc3dc7cbaca668dd8658.js": "/goldstar/precache-manifest.0cc48a14dfadcc3dc7cbaca668dd8658.js",
+    "service-worker.js": "/goldstar/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/goldstar/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1447153e.chunk.js.LICENSE.txt": "/goldstar/static/js/2.1447153e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/goldstar/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dad4e12d.js",
-    "static/js/2.eed8c2ae.chunk.js",
+    "static/js/runtime-main.01630e20.js",
+    "static/js/2.1447153e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e29241b1.chunk.js"
+    "static/js/main.359ae9b7.chunk.js"
   ]
 }
